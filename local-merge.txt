@@ -1,0 +1,4 @@
+Today I learned about local merge.
+A feature branch is used for separate development.
+Git merge combines changes from one branch into another.
+Local merge helps keep work organized.
