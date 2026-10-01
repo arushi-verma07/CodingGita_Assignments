@@ -1,0 +1,22 @@
+1. What is the main difference between local merge and PR merge?
+
+Local merge is done directly on a local machine using git merge.
+PR merge is done through GitHub after creating a Pull Request.
+
+2. When would you prefer a local merge?
+
+I would prefer a local merge for personal projects or small changes.
+
+3. When is a Pull Request better?
+
+A Pull Request is better when multiple developers are working together and code review is needed.
+
+4. After merging a PR on GitHub, which command brings the changes to your computer?
+
+git pull origin main
+
+5. What does git pull actually do (two steps)?
+
+git pull performs two actions:
+1. git fetch
+2. git merge
